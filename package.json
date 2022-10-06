@@ -1,0 +1,33 @@
+{
+  "name": "es6-basic",
+  "version": "1.0.0",
+  "description": "aprender nociones js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jack07z/es6-basic.git"
+  },
+  "keywords": [
+    "es6",
+    "es2015",
+    "funciones"
+  ],
+  "author": "Jackson Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jack07z/es6-basic/issues"
+  },
+  "homepage": "https://github.com/Jack07z/es6-basic#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
